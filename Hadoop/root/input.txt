@@ -1,0 +1,2 @@
+Hello, 
+This is an example text file created inside the container.
